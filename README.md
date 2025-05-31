@@ -1,7 +1,7 @@
 # 💫 About Me:
 👯 I’m looking to collaborate on<br>Connecting with companies and professionals for Data Engineering job opportunities, and contributing to projects involving big data, cloud platforms, or machine learning pipelines.<br><br>🤝 I’m looking for help with<br>Advanced Spark optimization, real-time data ingestion strategies, designing high-performance ETL pipelines, and streamlining end-to-end business workflows to turn raw data into actionable insights.<br><br>🌱 I’m currently learning<br>Machine learning workflows, LLM integration, and AI applications using Spark. I’m also diving deeper into cloud data architecture with Azure and AWS for modern, scalable analytics solutions.<br><br>💬 Ask me about<br>Data engineering, Power BI, SQL performance tuning, Python automation, and cloud data platforms like Azure and AWS.<br><br>⚡ Fun fact<br>I once built a migraine prediction model from nucleotide data — merging bioinformatics and machine learning in a unique and impactful way!
 
-
+# Lets Connect
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anjandepuru1999/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@ANJAN KUMAR DEPURU) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anjandepuru@gmail.com) 
 
